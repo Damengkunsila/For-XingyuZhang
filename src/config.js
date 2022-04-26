@@ -1,7 +1,7 @@
 /**
  * Copyright 2015 Haixing Hu
  *
- * https://github.com/damengkunsila/la
+ * https://github.com/Damengkunsila/la
  */
 
 /**
