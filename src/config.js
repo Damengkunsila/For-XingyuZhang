@@ -140,7 +140,7 @@ var IMAGES = [];
 /**
  * 所有背景音乐的总数目。如果要添加删除音乐，请修改此数目。
  */
-var MUSIC_COUNT = 1;
+var MUSIC_COUNT = 2;
 
 /**
  * 播放的背景音乐所在的目录，默认为 "./musics"。
